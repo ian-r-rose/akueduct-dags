@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # dockless config, sample data
-dags/transportation/dockless/config.yml
-dags/transportation/dockless/data/
+transportation/dockless/config.yml
+transportation/dockless/data/
 
 # C extensions
 *.so
@@ -37,7 +37,6 @@ wheels/
 
 # Installer logs
 pip-log.txt
-pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
